@@ -1,0 +1,32 @@
+.buyNow{
+    float: right;
+}
+.navbar-brand{
+    font-size: 35px;
+    color: black;
+
+}
+
+.navbar{
+    background-color: grey;
+}
+.navbar-header{
+    float: left;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: Black;
+    
+}
+
+.navbar li{
+    list-style-type: none;
+}
+
+.nav{
+    text-align: center;
+}
+/* .navbar-items{
+    align-items: center;
+} */
